@@ -9,6 +9,8 @@ Flat discount, which will deduct a predefined amount from the total cart value
 Percentage discount, which will deduct a percentage from the cart value. It should also define a maximum amount that can be discounted using this percentage discount. 
 It should also have endpoints to create and list coupon codes.
 # how to run 
-npm i 
+npm i
+
 cd src
+
 node index.js
